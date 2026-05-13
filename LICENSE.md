@@ -1,4 +1,4 @@
-
+PureVPN instant Client: camouflage-mode & DNS-leak-protection offers the most advanced PureVPN client, with camouflage-mode and DNS-leak-protection. Ideal for users who value
 
 
 
